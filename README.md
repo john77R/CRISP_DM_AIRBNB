@@ -1,12 +1,12 @@
-#Airbnb berlin rental market review.
+# Airbnb berlin rental market review.
 
-#1.	Installations
+# 1.	Installations
 Clone repository: git clone https://github.com/john77R/Machine_learning
 
-#2.	Current Requirements:
+# 2.	Current Requirements:
 pandas, numpy, seaborn, sklearn, folium, os, xgboost, matplotlib
 
-#3.	Project Motivation
+# 3.	Project Motivation
 
 The aim of this project was to explore using the CRISP-DM process the Airbnb Berlin listings data set for 2021. The data set contains 19,979 listings by almost 16,000 individual hosts. For this review we have a number of key questions to be answered.
 *Which areas are most popular?
@@ -18,14 +18,14 @@ Our 5 questions were answered and illustrated through a sequence of graphs and c
 An XGB model is provided in the code base.
 Analysis posted to blog: https://johnxringrose.medium.com/airbnb-berlin-rental-market-review-611d1c88956e
 
-#4.	File Descriptions
+# 4.	File Descriptions
 The data source for this project was the Berlin_listings file from http://insideairbnb.com., compiled 20 February, 2021. 
 
 
-#5.	How to Interact with this project.
+# 5.	How to Interact with this project.
 Clone the repo and use it for your own Airbnb analysis. Any listings file from the website http://insideairbnb.com can be saved to your system and the code cell for “fetch our dataset” modified to reflect the location of your saved data source.
 
-#6.	Acknowledgements
+# 6.	Acknowledgements
 *Kaggle
 *Udacity.
 *Insideairbnb.
