@@ -9,11 +9,12 @@ pandas, numpy, seaborn, sklearn, folium, os, xgboost, matplotlib
 # 3.	Project Motivation
 
 The aim of this project was to explore using the CRISP-DM process the Airbnb Berlin listings data set for 2021. The data set contains 19,979 listings by almost 16,000 individual hosts. For this review we have a number of key questions to be answered.
-*Which areas are most popular?
+* Which areas are most popular?
 *	Which is the most popular accommodation type?
 *	How is the price of accommodation determined by location and accommodation capacity?
 *	How are reviews distributed?
 *	is worth being a super host?
+
 Our 5 questions were answered and illustrated through a sequence of graphs and charts.
 An XGB model is provided in the code base.
 Analysis posted to blog: https://johnxringrose.medium.com/airbnb-berlin-rental-market-review-611d1c88956e
